@@ -1,0 +1,7 @@
+npx create-expo-app@latest ./
+
+npm run reset-project
+
+install: 
+
+https://www.nativewind.dev/docs/getting-started/installation
