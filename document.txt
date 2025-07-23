@@ -5,3 +5,15 @@ npm run reset-project
 install: theo huong dan sau
 
 https://www.nativewind.dev/docs/getting-started/installation
+
+
+
+
+extension:
+
+React/Redux Snippets
+
+ES7 React/Redux/React-Native/JS snippets
+
+ES7+ React/Redux/React-Native/JS snippets
+
