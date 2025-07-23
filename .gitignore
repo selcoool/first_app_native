@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+
+.expo-shared/
+
 # Expo
 .expo/
 dist/
